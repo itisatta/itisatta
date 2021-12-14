@@ -1,16 +1,55 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Atta Mohajjel 👋</h1>
 
-<!--
-**itisatta/itisatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <a href="https://mohajjel.com" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/web.png" />
+ </a>
+ 
+ <a href="https://linkedin.com/in/itisatta" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  
+ <a href="https://twitter.com/itisatta" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+ </a>
 
-Here are some ideas to get you started:
+  <a href="https://facebook.com/itisatta" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/facebook.png" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<p align="center"> 
+ <strong>
+  Skills
+  </strong>
+</p>
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VScode" width="50" height="50" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+</p>
+
+- 📃 I blog here: <a href="https://blog.mohajjel.com/">mohajjel.com/blog</a>
+- 💬 Ask me about: HTML , Wordpress , Elementor , C++ , Python , Linux 
+- 👯 I’m looking to collaborate on: Wordpress & Elementor
+- 👾 Follow my Twitter: [@itisatta](https://twiiter.com/itisatta)
+
+</br>
+
+<p align="center">
+ <a href="#" alt="Atta Mohajjel's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=itisatta&theme=tokyonight&show_icons=true" />
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://www.buymeacoffee.com/itisatta" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
+</p>
