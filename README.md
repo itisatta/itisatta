@@ -17,6 +17,10 @@
   <img src="https://img.icons8.com/fluent/48/000000/facebook.png" />
   </a>
 
+  <a href="https://github.com/itisatta" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" />
+  </a>
+
 </p>
 
 <p align="center"> 
@@ -31,11 +35,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VScode" width="50" height="50" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
 </p>
 
-- 📃 I blog here: <a href="https://blog.mohajjel.com/">mohajjel.com/blog</a>
+- 📃 I blog here: <a href="https://blog.mohajjel.com/">blog.mohajjel.com</a>
 - 💬 Ask me about: HTML , Wordpress , Elementor , C++ , Python , Linux 
 - 👯 I’m looking to collaborate on: Wordpress & Elementor
 - 👾 Follow my Twitter: [@itisatta](https://twiiter.com/itisatta)
