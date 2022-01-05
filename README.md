@@ -58,4 +58,8 @@
  <a href="https://www.buymeacoffee.com/itisatta" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
  </a>
+ <p align="center">
+ <a href="https://idpay.ir/itisatta" target="_blank">
+  <img src="https://static.idpay.ir/logo/logo.svg" height="61" width="194" />
+ </a>
 </p>
