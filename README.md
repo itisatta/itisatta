@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
 </p>
 
-- 📃 I blog here: <a href="https://blog.mohajjel.com/">blog.mohajjel.com</a>
+- 📃 I blog here: <a href="https://mohajjel.com/">mohajjel.com</a>
 - 💬 Ask me about: HTML , Wordpress , Elementor , C++ , Python , Linux 
 - 👯 I’m looking to collaborate on: Wordpress & Elementor
 - 👾 Follow my Twitter: [@itisatta](https://twiiter.com/itisatta)
