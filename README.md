@@ -62,4 +62,33 @@
  <a href="https://idpay.ir/itisatta" target="_blank">
   <img src="https://static.idpay.ir/logo/logo.svg" height="61" width="194" />
  </a>
+  <p align="center">
+ <a href="bitcoin:bc1qvt07hkxxwte6ultr408mg3t0yp57jdp028kkzp" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/307px-Bitcoin_logo.svg.png" height="64" width="307" />
+  <br>Pay by Birtcoin : bc1qvt07hkxxwte6ultr408mg3t0yp57jdp028kkzp
+ </a>
+</p>
+  <p align="center">
+ <a href="trc20:THPmRzf7ESNHh8StCnah7V9RaJyTiykwpe" target="_blank">
+  <img src="https://tron.guide/wp-content/uploads/2020/01/logo-EN-horizontal.svg" height="128" width="614" />
+  <br>Pay by TRON & TRC20 network : THPmRzf7ESNHh8StCnah7V9RaJyTiykwpe
+ </a>
+</p>
+  <p align="center">
+ <a href="erc20:THPmRzf7ESNHh8StCnah7V9RaJyTiykwpe" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ethereum_logo.svg/376px-Ethereum_logo.svg.png?20170619194739" height="240" width="150" />
+  <br>Pay by Ethereum & ERC20 network : 0x8e33fD8Dac6ed3B26D722EFc5027F925634c5Ae7
+ </a>
+</p>
+  <p align="center">
+ <a href="bep2:bnb1t4pplz9p7vtm3ksrasrlat3p66u5esgcj2cpaz" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Binance_logo.svg/632px-Binance_logo.svg.png" height="64" width="320" />
+  <br>Pay by Biannce Coin & BEP2 network : bnb1t4pplz9p7vtm3ksrasrlat3p66u5esgcj2cpaz
+ </a>
+</p>
+  <p align="center">
+ <a href="bep20:bnb1t4pplz9p7vtm3ksrasrlat3p66u5esgcj2cpaz" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Binance_logo.svg/632px-Binance_logo.svg.png" height="64" width="320" />
+  <br>Pay by BEP20 network : 0x8e33fD8Dac6ed3B26D722EFc5027F925634c5Ae7
+ </a>
 </p>
