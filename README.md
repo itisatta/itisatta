@@ -7,9 +7,8 @@ Backend Developer & Web Designer
 *   🌍  I'm based in Tabriz, Iran
 *   🖥️  See my portfolio at [Mohajjel.com](http://mohajjel.com)
 *   ✉️  You can contact me at [atta@mohajjel.com](mailto:atta@mohajjel.com)
-*   🧠  I'm learning JS, Node.js<a href="https://www.twitter.com/itisatta" target="_blank" rel="noreferrer"><img
-
-
+*   🧠  I'm learning JS, Node.js
+*   
 <p align="center">
  <a href="https://mohajjel.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/web.png" />
@@ -46,15 +45,10 @@ Backend Developer & Web Designer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VScode" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50" />
 </p>
-
-- 📃 I blog here: <a href="https://mohajjel.com/">mohajjel.com</a>
-- 💬 Ask me about: HTML , Wordpress , Elementor , C++ , Python , Linux 
-- 👯 I’m looking to collaborate on: Wordpress & Elementor
-- 👾 Follow my Twitter: [@itisatta](https://twiiter.com/itisatta)
 
 </br>
 
