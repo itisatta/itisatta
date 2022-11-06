@@ -8,7 +8,7 @@ Backend Developer & Web Designer
 *   🖥️  See my portfolio at [Mohajjel.com](http://mohajjel.com)
 *   ✉️  You can contact me at [atta@mohajjel.com](mailto:atta@mohajjel.com)
 *   🧠  I'm learning JS, Node.js<a href="https://www.twitter.com/itisatta" target="_blank" rel="noreferrer"><img
-<h1 align="center">Hi there, I'm Atta Mohajjel 👋</h1>
+
 
 <p align="center">
  <a href="https://mohajjel.com" target="_blank">
