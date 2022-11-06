@@ -7,8 +7,7 @@ Backend Developer & Web Designer
 *   🌍  I'm based in Tabriz, Iran
 *   🖥️  See my portfolio at [Mohajjel.com](http://mohajjel.com)
 *   ✉️  You can contact me at [atta@mohajjel.com](mailto:atta@mohajjel.com)
-*   🧠  I'm learning JS, Node.js
-*   
+
 <p align="center">
  <a href="https://mohajjel.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/web.png" />
